@@ -1,0 +1,13 @@
+aaa.txtの場合
+
+インデックスに保存
+git add aaa.txt
+
+コミット
+git commit -m "[Add] aaa"
+
+リモートリポジトリにプッシュ
+git remote add origin https://github.com/gucci-7997/cluster.git
+
+反映
+git push origin master
